@@ -26,7 +26,7 @@
 
 ## 2. 예산 집행 계획 및 소계
 
-<img src="Smart_Waste_Containe_CostList.png" />
+<img alt="Screenshot 2026-09-14 145127" src="https://github.com/user-attachments/assets/9081b1b8-fb75-4094-b421-7d27e3fcb01e" />
 
 > [!NOTE]
 > 본 예산 집행표는 실제 구매 내역을 기반으로 작성되었으며, 소모품 항목은 변동 가능성을 고려해 제외  
